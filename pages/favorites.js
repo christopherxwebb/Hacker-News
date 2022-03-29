@@ -1,4 +1,5 @@
+import view from '../utils/view.js';
 
-function Favorites() {
-
-}
+export default function Favorites() {
+    view.innerHTML = `<div>Favorites</div>`  
+  }
