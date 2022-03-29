@@ -1,6 +1,7 @@
+import RouterHandler from "./router";
 class App {
     constructor() {
-      console.log('Testing')  
+      new RouterHandler();
     }  
   }
   
