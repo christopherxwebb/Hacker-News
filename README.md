@@ -1,6 +1,6 @@
 # WebbDev News
 
-Welcome to WebbDev News, arguably the most prominent news aggregator after Hacker News (upon which it is very, very closely modelled).
+Welcome to WebbDev News, arguably the most prominent news aggregator after Hacker News (upon which it is very, very closely modelled). (If you're not familiar with Hacker News, check the site out here: https://news.ycombinator.com/)
 
 Here's the homepage:
 
